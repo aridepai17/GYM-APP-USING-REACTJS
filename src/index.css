@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: 'Press Start 2P', cursive;
+}
+
+span{
+  font-family: 'Press Start 2P', cursive;
+  font-weight: inherit;
+  
+}
