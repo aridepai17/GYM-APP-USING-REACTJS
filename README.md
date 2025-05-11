@@ -1,4 +1,4 @@
-# Shredded
+# SHREDDED
 
 A personalized workout generator creating tailored exercise routines based on your goals and target muscles.
 
@@ -16,6 +16,9 @@ Shredded is a React-based fitness application that generates customized workout 
 - **Muscle Targeting**: Specifically target up to two muscle groups for focused training
 - **Exercise Details**: Get comprehensive information for each exercise including proper form guidance
 - **Set Tracking**: Track completed sets during your workout
+
+## 💻 Demo
+
 
 ## 🚀 Getting Started
 
