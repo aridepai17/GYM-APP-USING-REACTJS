@@ -18,6 +18,7 @@ Shredded is a React-based fitness application that generates customized workout 
 - **Set Tracking**: Track completed sets during your workout
 
 ## 💻 Demo
+- Try it out for yourself [SHREDDED](https://shredder-eight.vercel.app/)
 
 
 ## 🚀 Getting Started
