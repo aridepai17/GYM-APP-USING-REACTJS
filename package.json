@@ -2,7 +2,7 @@
   "name": "gymfit",
   "private": true,
   "version": "0.0.0",
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "postcss-cli": "^11.0.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
@@ -24,7 +26,7 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "postcss": "^8.5.3",
-    "tailwindcss": "^3.4.1",
+    "tailwindcss": "^3.4.17",
     "vite": "^6.3.5"
   }
 }
